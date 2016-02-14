@@ -1,0 +1,10 @@
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\bin\Debug\Test.exe
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\bin\Debug\Test.pdb
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\bin\Debug\ZGraph.dll
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\bin\Debug\ZGraph.xml
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\obj\Debug\Test.FormTest.resources
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\obj\Debug\Test.exe
+C:\Users\jiang\Desktop\CSharp波形显示控件源码\Test\obj\Debug\Test.pdb
